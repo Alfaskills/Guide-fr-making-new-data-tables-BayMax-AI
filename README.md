@@ -1,0 +1,1 @@
+# Guide-fr-making-new-data-tables-BayMax-AI
